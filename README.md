@@ -14,8 +14,8 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 
 :page_with_curl: I'm currently learning:
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 
 
 <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/febrinurdiansah?cardType=github&theme=ocean-dark&hide=contribs)](https://git.io/awesome-stats-card) -->
