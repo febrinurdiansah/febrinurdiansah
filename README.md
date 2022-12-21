@@ -6,7 +6,7 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 
 **Social Media:**
 
-[![Gmail](https://icons8.com/icon/37246/gmail-logo)](mailto:febrinurdiansah0@gmail.com)
+[![Gmail](icons/gmail.png)](mailto:febrinurdiansah0@gmail.com)
 [![GitHub](icons/github.png)](https://github.com/febrinurdiansah)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/febrinrdsh_/?hl=id)
