@@ -10,7 +10,7 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 [![GitHub](icons/github.png)](https://github.com/febrinurdiansah)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/febrinrdsh_/?hl=id)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monochiv/)
+[![Steam](icons/steam.png)](https://steamcommunity.com/id/monochiv/)
 
 :page_with_curl: I'm currently learning:
 
