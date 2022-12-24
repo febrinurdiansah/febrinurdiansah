@@ -6,6 +6,8 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 
 **Social Media:**
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 [![Gmail](icons/gmail.png)](mailto:febrinurdiansah0@gmail.com)
 [![GitHub](icons/github.png)](https://github.com/febrinurdiansah)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
