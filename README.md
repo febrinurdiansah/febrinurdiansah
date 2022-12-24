@@ -7,12 +7,11 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 
 **Social Media:**
 
-[![Gmail](https://img.shields.io/badge/Febrinurdiansah0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febrinurdiansah0@gmail.com)
-[![GitHub](https://img.shields.io/badge/febrinurdiansah-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/febrinurdiansah)
-[![LinkedIn](https://img.shields.io/badge/febrinurdiansah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
+[![Gmail](https://img.shields.io/badge/Febrinurdiansah0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:febrinurdiansah0@gmail.com)
+[![GitHub](https://img.shields.io/badge/febrinurdiansah-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/febrinurdiansah)
+[![LinkedIn](https://img.shields.io/badge/febrinurdiansah-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
 [![Instagram](https://img.shields.io/badge/febrinrdsh_-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/febrinrdsh_/?hl=id)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501) -->
-[![Steam](https://img.shields.io/badge/Monochiv-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monochiv/)
+[![Steam](https://img.shields.io/badge/Monochiv-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/monochiv/)
 
 :page_with_curl: I'm currently learning:
 
