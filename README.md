@@ -9,7 +9,7 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 
 [![Gmail](https://img.shields.io/badge/Febrinurdiansah0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febrinurdiansah0@gmail.com)
 [![GitHub](https://img.shields.io/badge/febrinurdiansah-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/febrinurdiansah)
-[![LinkedIn](https://img.shields.io/badge/febri-nur-diansah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
+[![LinkedIn](https://img.shields.io/badge/febrinurdiansah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febri-nur-diansah-776599210/)
 [![Instagram](https://img.shields.io/badge/febrinrdsh_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/febrinrdsh_/?hl=id)
 [![Steam](https://img.shields.io/badge/Monochiv-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monochiv/)
 
