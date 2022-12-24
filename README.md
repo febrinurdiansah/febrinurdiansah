@@ -1,9 +1,9 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Yogyakarta University of Technology](https://uty.ac.id/). I enjoy learning about technology and playing games.
-
----
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+---
+
 **Social Media:**
 
 [![Gmail](icons/gmail.png)](mailto:febrinurdiansah0@gmail.com)
