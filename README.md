@@ -10,13 +10,13 @@ Hi, I’m Febri Nur Diansah, people call me Febri , now I'm still studying at [Y
 <!-- [![Gmail](https://img.shields.io/badge/febrinurdiansah0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:febrinurdiansah0@gmail.com) -->
 [![LinkedIn](https://img.shields.io/badge/febrinurdiansah-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febrinrdsh)
 [![Instagram](https://img.shields.io/badge/febrinrdsh_-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/febrinrdsh_/?hl=id)
-[![Steam](https://img.shields.io/badge/Monochiv-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/monochiv/)
 <!-- [![GitHub](https://img.shields.io/badge/febrinurdiansah-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/febrinurdiansah) -->
 
 :page_with_curl: I'm currently learning:
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+<!-- [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) -->
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 <!-- [![ula](https://raw.githubusercontent.com/yourtulloh/yourtulloh/master/github-contribution-grid-snake.svg)](https://github.com/febrinurdiansah) -->
